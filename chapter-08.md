@@ -2,7 +2,7 @@
 
 # Chapter 8
 
-# Ethical Considerations at the Intersection**
+# Ethical Considerations at the Intersection
 
 ---
 
@@ -155,7 +155,7 @@ Ultimately, fostering informed public discourse is not just an adjunct to the sc
 
 **References**
 
-*(Revised list adhering to ~20 references)*
+
 
 Beauchamp, T. L., & Childress, J. F. (2019). *Principles of biomedical ethics* (8th ed.). Oxford University Press.
 *   **Summary:** The foundational text outlining core principles of biomedical ethics (autonomy, non-maleficence, beneficence, justice), providing the general ethical framework relevant to Section 8.1. (Classic reference exception).
