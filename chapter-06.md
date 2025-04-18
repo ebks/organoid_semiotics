@@ -191,7 +191,7 @@ Despite the challenges, the concept of a semio-computational assay represents a 
 
 **References**
 
-*(Revised list adhering to ~20 references)*
+
 
 An, G., Mi, Q., Dutta-Moscato, J., & Vodovotz, Y. (2009). Agent-based models in translational systems biology. *Wiley Interdisciplinary Reviews: Systems Biology and Medicine*, *1*(2), 159–171.
 *   **Summary:** Review describing Agent-Based Modeling (ABM). Relevant for modeling cellular semiosis and self-organization (Section 6.3.1). (Slightly older overview of ABM in biology).
@@ -262,4 +262,3 @@ Vitale, F., Driscoll, N., Murphy, R. G., & Cullen, D. K. (2023). Brain organoids
 Zhou, J., Cui, G., Hu, S., Zhang, Z., Yang, C., Liu, Z., ... & Sun, M. (2020). Graph neural networks: A review of methods and applications. *AI Open*, *1*, 57–81.
 *   **Summary:** Recent review covering Graph Neural Network (GNN) methods (cited in Ch 4). Relevant context for computational modeling approaches (Section 6.3.2).
 
-*(Note: This list contains 23 references. To strictly meet the 20-reference limit, candidates for removal might include: Beven 2006 (philosophy context), Liang & Kleeman 2005 (transfer entropy methods context), or perhaps one of the modeling reviews if concepts are covered sufficiently by others like Vitale et al. or Sharott et al. The current selection aims for coverage of Peirce operationalization, experimental methods, diverse modeling paradigms, analysis integration, validation philosophy, and the assay proposal.)*
