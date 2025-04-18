@@ -152,7 +152,6 @@ The Peircean concept of the network architecture as a Legisign provides a valuab
 
 **References**
 
-*(Revised list adhering to ~20 references)*
 
 Alon, U. (2007). Network motifs: Theory and experimental approaches. *Nature Reviews Genetics*, *8*(6), 450–461.
 *   **Summary:** Classic review on network motifs (cited in Ch 3). Relevant here for discussing structural elements enabling specific functions (Section 4.6). (Classic reference exception).
