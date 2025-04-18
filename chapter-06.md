@@ -2,7 +2,7 @@
 
 # Chapter 6
 
-# Bridging Disciplines: Methodologies for Organoid Semiotics**
+# Bridging Disciplines: Methodologies for Organoid Semiotics
 
 ---
 
