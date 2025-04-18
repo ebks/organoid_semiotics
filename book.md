@@ -3,6 +3,9 @@
 # Organoid Semiotics
 
 # A Peircean Inquiry into Neural Signification In Vitro
+---
+
+LUCIANO SILVA
 
 ---
 
