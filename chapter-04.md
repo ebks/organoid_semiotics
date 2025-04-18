@@ -2,7 +2,7 @@
 
 # Chapter 4
 
-# Network-Level Semiosis: Information Processing, Representation, and Learning**
+# Network-Level Semiosis: Information Processing, Representation, and Learning
 
 ---
 
@@ -235,4 +235,3 @@ Wilson, H. R., & Cowan, J. D. (1972). Excitatory and inhibitory interactions in 
 Zhou, J., Cui, G., Hu, S., Zhang, Z., Yang, C., Liu, Z., ... & Sun, M. (2020). Graph neural networks: A review of methods and applications. *AI Open*, *1*, 57–81.
 *   **Summary:** Recent review covering Graph Neural Network (GNN) methods and applications. Relevant context for discussing GNNs in analyzing organoid network data (Section 4.5).
 
-*(Note: This list contains 27 references. To strictly meet the 20-reference limit, several would need trimming. Potential candidates might include: Citri & Malenka 2008 (covered by Bliss & Collingridge conceptually), Deco et al. 2008 (Wilson & Cowan is more foundational), Hesse & Gross 2014 (criticality covered by Beggs & Plenz), LeCun et al. 2015 (general ANN background), Stjernfelt 2014 (Dicisign concept from Peirce's CP sufficient), Wilson & Cowan 1972 (covered conceptually by mentioning rate models). This would bring the count down significantly while retaining core neuroscience, modeling, and Peircean sources.)*
