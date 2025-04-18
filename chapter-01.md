@@ -2,7 +2,7 @@
 
 # Chapter 1
 
-# Cerebral Organoids: A Biological Substrate for Semiosis and Computation**
+# Cerebral Organoids: A Biological Substrate for Semiosis and Computation
 
 ----
 
