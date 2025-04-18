@@ -231,4 +231,4 @@ Velasco, S., Kedaigle, A. J., Simmons, S. K., Nash, A., Rocha, M., Quadrato, G.,
 Xiang, Y., Tanaka, Y., Cakir, B., Patterson, B., Kim, K. Y., Sun, P., ... & Park, I. H. (2022). Human stem cell-derived neuronal models for neurological disease modeling and drug discovery. *Nature Reviews Drug Discovery*, *21*(10), 719–735.
 *   **Summary:** Review covering PSC-derived neural models (including organoids) for disease modeling and drug discovery. Details protocols, disease applications, and challenges like incorporating microglia/vascularization. Relevant for Sections 1.1, 1.2, 1.4, 1.6.
 
-*(Note: This list now contains 23 references due to re-adding Trujillo et al. 2021 and correcting the Gordon et al. 2021 preprint to its 2023 published version. To strictly meet the 20-reference limit, three would need to be removed. Potential candidates for removal might be the slightly older methodological/overview papers (Farahany et al. 2018, Obien et al. 2015, Lin & Schnitzer 2016) or one of the primary papers if overlap exists with reviews, depending on the exact balance desired between foundational context and recent findings.)*
+
