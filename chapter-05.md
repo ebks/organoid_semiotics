@@ -203,4 +203,3 @@ Waddington, C. H. (1957). *The strategy of the genes*. Allen & Unwin.
 Xiang, Y., Tanaka, Y., Cakir, B., Patterson, B., Kim, K. Y., Sun, P., ... & Park, I. H. (2022). Human stem cell-derived neuronal models for neurological disease modeling and drug discovery. *Nature Reviews Drug Discovery*, *21*(10), 719–735.
 *   **Summary:** Review on stem cell models for disease/drugs (cited in Ch 1 & 3). Provides context for disease models discussed in Section 5.3.
 
-*(Note: This list contains 24 references. To strictly meet the 20-reference limit, candidates for removal might include: Brier 2008 (Peirce/Short/Deacon cover semiotics), Deco et al. 2008 or Gerstner et al. 2014 (if modeling details are less central than the concepts), potentially one of the classic references like Bliss & Collingridge or Waddington if the concepts are sufficiently explained or cited via reviews. The current list aims for strong grounding across the diverse topics.)*
