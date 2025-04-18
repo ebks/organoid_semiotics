@@ -2,7 +2,7 @@
 
 # Chapter 7
 
-# Philosophical and Theoretical Implications**
+# Philosophical and Theoretical Implications
 
 ---
 
@@ -149,7 +149,7 @@ Organoid Semiotics promotes a view where the fundamental reality lies not just i
 
 **References**
 
-*(Revised list adhering to ~20 references)*
+
 
 Beggs, J. M., & Plenz, D. (2003). Neuronal avalanches in neocortical circuits. *The Journal of Neuroscience*, *23*(35), 11167–11177.
 *   **Summary:** Foundational paper on neuronal avalanches (cited in Ch 1-5). Relevant for discussion of emergence and complexity (Section 7.6). (Classic reference exception).
