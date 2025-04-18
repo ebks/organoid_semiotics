@@ -126,7 +126,6 @@ While definitive quantification of semiotic complexity remains a major theoretic
 
 **References**
 
-*(Revised list adhering to ~20 references)*
 
 Alon, U. (2007). Network motifs: Theory and experimental approaches. *Nature Reviews Genetics*, *8*(6), 450–461.
 *   **Summary:** Classic review on network motifs (cited in Ch 3 & 4). Relevant here for GRN structure providing computational logic underlying development (Section 5.1, 5.3). (Classic reference exception).
