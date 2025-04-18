@@ -125,7 +125,6 @@ Integrating the Peircean and computational views suggests a nuanced picture wher
 
 **References**
 
-*(Revised list adhering to ~20 references)*
 
 Alon, U. (2007). Network motifs: Theory and experimental approaches. *Nature Reviews Genetics*, *8*(6), 450–461.
 *   **Summary:** Classic review on network motifs in biological networks (GRNs) and their computational functions. Relevant for Section 3.3. (Classic reference exception).
