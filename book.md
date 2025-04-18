@@ -1,6 +1,6 @@
 ---
 
-# Organoid Semiotics
+# ORGANOID SEMIOTICS
 
 # A Peircean Inquiry into Neural Signification In Vitro
 ---
