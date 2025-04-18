@@ -2,7 +2,7 @@
 
 # Chapter 9
 
-# Synthesis and Future Synergies**
+# Synthesis and Future Synergies
 
 ---
 
@@ -157,7 +157,6 @@ Ultimately, the quest undertaken in this book is part of a larger scientific and
 
 **References**
 
-*(Revised list adhering to ~20 references)*
 
 Bartocci, E., & Lió, P. (2016). Computational modeling, formal analysis, and tools for systems biology. *PLoS Computational Biology*, *12*(1), e1004591.
 *   **Summary:** Review covering computational modeling formalisms (cited in Ch 3 & 6). Relevant for future modeling directions (Section 9.4). (Slightly older methods overview).
