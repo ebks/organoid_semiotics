@@ -3,7 +3,7 @@
 
 # Chapter 3
 
-# Semiosis and Computation at the Molecular and Cellular Level**
+# Semiosis and Computation at the Molecular and Cellular Level
 
 ---
 
